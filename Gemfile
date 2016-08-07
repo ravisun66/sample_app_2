@@ -7,7 +7,7 @@ gem 'faker'
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
 gem 'jquery-rails'
-
+gem 'turbolinks'
 group :development, :test do
   gem 'sqlite3'
   gem 'rspec-rails'
